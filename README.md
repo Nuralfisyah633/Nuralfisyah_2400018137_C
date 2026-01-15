@@ -1,2 +1,2 @@
-# Nuralfisyah_2400018137_C
-Project_Akhir_PBO
+# Nuralfisyah_2400018137_C_ProjectAkhirPBO
+Sistem Manajemen Kos
